@@ -1,0 +1,3 @@
+SQL Test Query 
+
+insert into stationdb(hpos,vpos,people,isForward,Sid) values(20,-15.2,2,true,"Uioels119");
